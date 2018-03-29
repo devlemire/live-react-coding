@@ -2,4 +2,4 @@
 
 ## Lessons Covered
 
-* None yet
+*  Basic Redux ( Counter Application ) - 03/29/2018
